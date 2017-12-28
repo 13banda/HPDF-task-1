@@ -7,7 +7,8 @@ run these command's
 2. `cd  HPDF-task-1`               
 3. `npm install`                
 4. `npm run dev`         
-                  to succesfully launch the app.   
+                  to succesfully launch the app.
+  now browse the http://localhost:8080/
 
 **Note:** 
 * Incase you donot have npm installed goto [Node.js](https://nodejs.org/en/download/).
